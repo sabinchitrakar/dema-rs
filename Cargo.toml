@@ -3,6 +3,7 @@ name = "dema-rs"
 version = "0.1.0"
 authors = ["immortal infidel <immortal.infidel@gmail.com>"]
 edition = "2018"
+license="MIT"
 description="Double Exponential Moving Average (DEMA) Implementation In Rust"
 repository="https://github.com/immortalinfidel/dema-rs"
 homepage="https://github.com/immortalinfidel/dema-rs"
