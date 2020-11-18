@@ -3,6 +3,9 @@ name = "dema-rs"
 version = "0.1.0"
 authors = ["immortal infidel <immortal.infidel@gmail.com>"]
 edition = "2018"
+description="Double Exponential Moving Average (DEMA) Implementation In Rust"
+repository="https://github.com/immortalinfidel/dema-rs"
+homepage="https://github.com/immortalinfidel/dema-rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

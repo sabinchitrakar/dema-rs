@@ -19,3 +19,7 @@ assert_eq!(ema.next(86.89), Some(86.72659316211335));
 assert_eq!(ema.next(87.77), Some(87.5288251063304));
 assert_eq!(ema.next(87.29), Some(87.64550318083462));
 ```
+
+### Calculation  
+DEMA=2*EMA<sub>n</sub>(input) -EMA(EMA<sub>n</sub>(input));  
+n=period
