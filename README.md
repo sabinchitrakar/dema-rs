@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/immortalinfidel/dema-rs.svg?branch=master)](https://travis-ci.com/immortalinfidel/dema-rs)
+
 # Double Exponential Moving Average
 ```
 use dema_rs::DEMA;
